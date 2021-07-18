@@ -1,0 +1,64 @@
+{
+      "data": [
+        {
+          "title": "Superhero #2",
+          "count": 26,
+          "isNew": true,
+          "thumbUrl": "https://raw.githubusercontent.com/shivu-codez/WA-Sticker/main/superhero2/sticker_1.png"
+        },
+        {
+          "title": "Hello Kitty",
+          "count": 24,
+          "isNew": true,
+          "thumbUrl": "https://raw.githubusercontent.com/shivu-codez/WA-Sticker/main/hello%20kitty/sticker_1.png"
+        },
+        {
+          "title": "Good Moring",
+          "count": 16,
+          "isNew": true,
+          "thumbUrl": "https://raw.githubusercontent.com/shivu-codez/WA-Sticker/main/Good%20morning/sticker_1.png"
+        },
+        {
+          "title": "Snitch",
+          "count": 30,
+          "isNew": true,
+          "thumbUrl": "https://raw.githubusercontent.com/shivu-codez/WA-Sticker/main/snitch/sticker_1.png"
+        },
+        {
+          "title": "Dragon Ball",
+          "count": 30,
+          "isNew": false,
+          "thumbUrl": "https://raw.githubusercontent.com/shivu-codez/WA-Sticker/main/dragon%20Ball/sticker_1.png"
+        },
+        {
+          "title": "MEME",
+          "count": 30,
+          "isNew": false,
+          "thumbUrl": "https://raw.githubusercontent.com/shivu-codez/WA-Sticker/main/meme/sticker_1.png"
+        },
+        {
+          "title": "Milk & Mocha Bear",
+          "count": 21,
+          "isNew": false,
+          "thumbUrl": "https://raw.githubusercontent.com/shivu-codez/WA-Sticker/main/Milk%20%26%20Mocha%20Bear/sticker_1.png"
+        },
+        {
+          "title": "Birthday",
+          "count": 30,
+          "isNew": false,
+          "thumbUrl": "https://raw.githubusercontent.com/shivu-codez/WA-Sticker/main/birthday/sticker_1.png"
+        },
+        {
+          "title": "Superhero #1",
+          "count": 30,
+          "isNew": false,
+          "thumbUrl": "https://raw.githubusercontent.com/shivu-codez/WA-Sticker/main/superhero1/sticker_1.png"
+        },
+        {
+          "title": "Emotions",
+          "count": 30,
+          "isNew": false,
+          "thumbUrl": "https://raw.githubusercontent.com/shivu-codez/WA-Sticker/main/emotions/sticker_1.png"
+        }
+      ]
+    }
